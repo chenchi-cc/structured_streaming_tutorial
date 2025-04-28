@@ -1,1 +1,2 @@
 # structured_streaming_tutorial
+the exercise for structured streaming
